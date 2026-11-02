@@ -197,3 +197,5 @@ ORDER BY l.data_vencimento DESC;
 
 [RotinOr_Documentacao.docx](https://github.com/user-attachments/files/34271432/RotinOr_Documentacao.docx)
 
+[documenta_o_do_banco_de_dados_rotior.md](https://github.com/user-attachments/files/34271225/documenta_o_do_banco_de_dados_rotior.md)
+
