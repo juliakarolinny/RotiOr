@@ -192,4 +192,8 @@ INNER JOIN usuario u ON c.id_usuario = u.id_usuario
 INNER JOIN categoria cat ON l.id_categoria = cat.id_categoria
 ORDER BY l.data_vencimento DESC;
 ```
+
+### Link das documentações
 [documenta_o_do_banco_de_dados_rotior.md](https://github.com/user-attachments/files/34271225/documenta_o_do_banco_de_dados_rotior.md)
+[RotinOr_Documentacao.docx](https://github.com/user-attachments/files/34271432/RotinOr_Documentacao.docx)
+
