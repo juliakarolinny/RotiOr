@@ -9,7 +9,7 @@ O **Rotior** é um sistema integrativo de gestão pessoal que combina **planejam
 
 ---
 
-## Estrutura de Arquivos (ZIP)
+## Estrutura de Arquivos
 
 Abaixo está a estrutura organizada e limpa dos scripts SQL contidos no pacote (desconsiderando arquivos duplicados de backup):
 
