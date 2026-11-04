@@ -1,4 +1,4 @@
-##**Banco de Dados Rotior — Sistema Integrativo de Gestão Pessoal**
+##Banco de Dados Rotior — Sistema Integrativo de Gestão Pessoal
 
 O **Rotior** é um banco de dados relacional projetado para integrar o planejamento de rotinas, hábitos e tarefas com o controle e acompanhamento de finanças pessoais.
 
